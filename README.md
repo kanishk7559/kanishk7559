@@ -1,6 +1,6 @@
 # Hi, I'm Kanishk :love_you_gesture:
 
-<img src="https://raw.githubusercontent.com/kanishk7559/kanishk7559/master/Banner.png" alt="Kanishk Jamgaonkar">
+<img src="https://raw.githubusercontent.com/kanishk7559/kanishk7559/master/Banner.png" href="#" alt="Kanishk Jamgaonkar">
 Experiencing and learning  working in the computer programming. Interested in Machine Learning, Deep learning & Artificial Intelligence domain . Strong administrative professional with a Bachelor of Technology - BTech focused in Computer Science from MIT World Peace University. 
 
 ## Find me around the web 🌎: <a href="https://github.com/kanishk7559"><img align="left" width="170" height="180" src="https://raw.githubusercontent.com/kanishk7559/kanishk7559/master/smallpic.png"></a>
